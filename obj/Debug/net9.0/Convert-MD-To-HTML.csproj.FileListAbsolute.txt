@@ -1,0 +1,15 @@
+/Users/eirik.haugennilsson/Convert-MD-To-HTML/bin/Debug/net9.0/Convert-MD-To-HTML
+/Users/eirik.haugennilsson/Convert-MD-To-HTML/bin/Debug/net9.0/Convert-MD-To-HTML.deps.json
+/Users/eirik.haugennilsson/Convert-MD-To-HTML/bin/Debug/net9.0/Convert-MD-To-HTML.runtimeconfig.json
+/Users/eirik.haugennilsson/Convert-MD-To-HTML/bin/Debug/net9.0/Convert-MD-To-HTML.dll
+/Users/eirik.haugennilsson/Convert-MD-To-HTML/bin/Debug/net9.0/Convert-MD-To-HTML.pdb
+/Users/eirik.haugennilsson/Convert-MD-To-HTML/obj/Debug/net9.0/Convert-MD-To-HTML.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eirik.haugennilsson/Convert-MD-To-HTML/obj/Debug/net9.0/Convert-MD-To-HTML.AssemblyInfoInputs.cache
+/Users/eirik.haugennilsson/Convert-MD-To-HTML/obj/Debug/net9.0/Convert-MD-To-HTML.AssemblyInfo.cs
+/Users/eirik.haugennilsson/Convert-MD-To-HTML/obj/Debug/net9.0/Convert-MD-To-HTML.csproj.CoreCompileInputs.cache
+/Users/eirik.haugennilsson/Convert-MD-To-HTML/obj/Debug/net9.0/Convert-MD-To-HTML.sourcelink.json
+/Users/eirik.haugennilsson/Convert-MD-To-HTML/obj/Debug/net9.0/Convert-MD-To-HTML.dll
+/Users/eirik.haugennilsson/Convert-MD-To-HTML/obj/Debug/net9.0/refint/Convert-MD-To-HTML.dll
+/Users/eirik.haugennilsson/Convert-MD-To-HTML/obj/Debug/net9.0/Convert-MD-To-HTML.pdb
+/Users/eirik.haugennilsson/Convert-MD-To-HTML/obj/Debug/net9.0/Convert-MD-To-HTML.genruntimeconfig.cache
+/Users/eirik.haugennilsson/Convert-MD-To-HTML/obj/Debug/net9.0/ref/Convert-MD-To-HTML.dll
