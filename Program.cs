@@ -18,7 +18,20 @@ class Program
 
         foreach (var line in contentArray)
         {
-            if (line.StartsWith("###"))
+            if (line.StartsWith("**") || line.StartsWith("__")) 
+            {
+                string boldStart = "**";
+                string boldEnd = "**";
+
+                int boldStartIndex = line.IndexOf(boldStart);
+                int boldEndIndex = line.IndexOf(boldEnd, boldStartIndex + 1);
+                if (boldStartIndex != -1 && boldEndIndex != -1)
+                {
+                    Console.WriteLine($"<strong>{line.Substring(boldStartIndex + 2, boldEndIndex - boldStartIndex - 2)}</strong>");
+                    File.AppendAllText("index.html", $"<strong>{line.Substring(boldStartIndex + 2, boldEndIndex - boldStartIndex - 2)}</strong>\n");
+                }
+            }
+            else if (line.StartsWith("###"))
             {
                 string h3 = line.TrimStart('#', ' ');
                 Console.WriteLine($"<h3>{h3}</h3>");
