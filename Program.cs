@@ -36,10 +36,6 @@ class Program
                     string h1 = contentArray[i].TrimStart('#', ' ');
                     File.AppendAllText("index.html", $"<h3>{h1}</h3>\n");
                     break;
-                case true when Regex.IsMatch(contentArray[i], @"^#(?!#)"):
-                    string list = contentArray[i].TrimStart('#', ' ');
-                    File.AppendAllText("index.html", $"<h3>{h1}</h3>\n");
-                    break;
 
             }
             
