@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Convert-MD-To-HTML")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af0ab53a21c7cec287e9ab504ed5562c9aebc97c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c179c334e90e90f98b92ad298abf9697704eb2b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Convert-MD-To-HTML")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Convert-MD-To-HTML")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
